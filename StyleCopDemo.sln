@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30428.66
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleCopDemo", "StyleCopDemo\StyleCopDemo.csproj", "{66DEA9DF-1548-4BBE-812D-6AC1FB69266A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70EB3347-2CCC-4D67-8C19-9FCE855F76AC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		stylecop.json = stylecop.json
+		StyleCop.ruleset = StyleCop.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DEA9DF-1548-4BBE-812D-6AC1FB69266A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DEA9DF-1548-4BBE-812D-6AC1FB69266A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DEA9DF-1548-4BBE-812D-6AC1FB69266A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DEA9DF-1548-4BBE-812D-6AC1FB69266A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3760FC-08C1-48A0-835A-F3D4984A604D}
+	EndGlobalSection
+EndGlobal
